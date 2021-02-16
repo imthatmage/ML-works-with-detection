@@ -1,4 +1,4 @@
-# Some works with ML(segmentation) 🛩
+# Some works with ML(detection) 👨‍💻
 
 ## Military aircraft detection 🛫
 
