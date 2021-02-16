@@ -30,7 +30,7 @@ Model: [YOLOV5l](https://github.com/ultralytics/yolov5)
 ![Militaryaircraft20](https://raw.githubusercontent.com/Rojanson/ML-works-with-detection/master/militaryaircraft/imgs(test)/__results___16_20.png)
 ![Militaryaircraft21](https://raw.githubusercontent.com/Rojanson/ML-works-with-detection/master/militaryaircraft/imgs(test)/__results___16_21.png)
 
-## Cat and dog detection 🛫
+## Cat and dog detection 🐶 🐱
 
 Dataset: [Link](https://www.kaggle.com/andrewmvd/dog-and-cat-detection)
 
