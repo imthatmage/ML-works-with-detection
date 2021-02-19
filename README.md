@@ -49,3 +49,11 @@ Model: [YOLOV1(veryold)](https://github.com/Rojanson/ML-works-with-detection/tre
 ![Catndogdetection8](https://raw.githubusercontent.com/Rojanson/ML-works-with-detection/master/catndogdetection/imgs(test)/__results___14_8.png)
 ![Catndogdetection9](https://raw.githubusercontent.com/Rojanson/ML-works-with-detection/master/catndogdetection/imgs(test)/__results___14_9.png)
 ![Catndogdetection10](https://raw.githubusercontent.com/Rojanson/ML-works-with-detection/master/catndogdetection/imgs(test)/__results___14_10.png)
+
+## Face Mask Detection 🛫
+
+Dataset: [Link](https://www.kaggle.com/a2015003713/militaryaircraftdetectiondataset?select=dataset)
+
+Notebook: [Link](https://github.com/Rojanson/ML-works-with-detection/tree/master/militaryaircraft)
+
+Model: [YOLOV5l](https://github.com/ultralytics/yolov5)
