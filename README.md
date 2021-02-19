@@ -30,7 +30,7 @@ Model: [YOLOV5l](https://github.com/ultralytics/yolov5)
 ![Militaryaircraft20](https://raw.githubusercontent.com/Rojanson/ML-works-with-detection/master/militaryaircraft/imgs(test)/__results___16_20.png)
 ![Militaryaircraft21](https://raw.githubusercontent.com/Rojanson/ML-works-with-detection/master/militaryaircraft/imgs(test)/__results___16_21.png)
 
-## Cat and dog detection 🐶 🐱
+## Cat and dog detection 🐱
 
 Dataset: [Link](https://www.kaggle.com/andrewmvd/dog-and-cat-detection)
 
@@ -52,8 +52,14 @@ Model: [YOLOV1(veryold)](https://github.com/Rojanson/ML-works-with-detection/tre
 
 ## Face Mask Detection 🛫
 
-Dataset: [Link](https://www.kaggle.com/a2015003713/militaryaircraftdetectiondataset?select=dataset)
+Dataset: [Link](https://www.kaggle.com/andrewmvd/face-mask-detection)
 
-Notebook: [Link](https://github.com/Rojanson/ML-works-with-detection/tree/master/militaryaircraft)
+Notebook: [Link](https://github.com/Rojanson/ML-works-with-detection/tree/master/facemaskdetection)
 
-Model: [YOLOV5l](https://github.com/ultralytics/yolov5)
+Model: [YOLOV5l](https://github.com/Rojanson/ML-works-with-detection/tree/master/facemaskdetection)
+
+![Facemaskdetection0](https://raw.githubusercontent.com/Rojanson/ML-works-with-detection/master/facemaskdetection/imgs(test)/__results___8_0.png)
+![Facemaskdetection1](https://raw.githubusercontent.com/Rojanson/ML-works-with-detection/master/facemaskdetection/imgs(test)/__results___8_1.png)
+![Facemaskdetection2](https://raw.githubusercontent.com/Rojanson/ML-works-with-detection/master/facemaskdetection/imgs(test)/__results___8_2.png)
+![Facemaskdetection3](https://raw.githubusercontent.com/Rojanson/ML-works-with-detection/master/facemaskdetection/imgs(test)/__results___8_3.png)
+![Facemaskdetection4](https://raw.githubusercontent.com/Rojanson/ML-works-with-detection/master/facemaskdetection/imgs(test)/__results___8_4.png)
